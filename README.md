@@ -1,4 +1,4 @@
-# Iperf 3 QoS Measurement
+# Iperf3 QoS Measurement
 Testing automation using Iperf3 for QoS measurement.
 
 ## How to Use
